@@ -32,7 +32,8 @@ const Header = () => {
           <div className="navbar-start">
             <Link href="/" className="text-xl font-bold">
             <div className="flex items-center">
-              <Image width={100} height={100} alt={""} src="/logo.png" className="h-[60px] w-[100px]"/>
+              {/* <Image width={100} height={100} alt={""} src="/logo.png" className="h-[60px] w-[100px]"/> */}
+              Clipzy
             </div>
             </Link>
           </div>
